@@ -13,19 +13,14 @@ In Mermaid, the objective is simple. Get to the flag at the end of the level. Th
        -Enemies(one hit) = 20 points
        -Gems = 10 points
        -Fish = 50 points
+**Powerups**:
+       -Heart(Light): Increases Health by 1 point
+       -Health Max Up(Dark): Increases Max health from 3 to 6
+At max health, hearts will not give more health.
+
 ```
 
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+```
 
 [Link](url) and ![Image](src)
 ```

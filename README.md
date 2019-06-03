@@ -4,12 +4,12 @@ In Mermaid, the objective is simple. Get to the flag at the end of the level. Th
 
 ## How to Play
 ```
-Controls:
+**Controls**:
         -LEFT ARROW KEY = Left
         -RIGHT ARROW KEY = Right
         -SPACE = Start and restart
         -P = Pause
-Scoring:
+**Scoring**:
        -Enemies(one hit) = 20 points
        -Gems = 10 points
        -Fish = 50 points

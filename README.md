@@ -4,14 +4,14 @@
 
 ## How to Play
 Controls:
-        LEFT ARROW KEY = Left
-        RIGHT ARROW KEY = Right
-        SPACE = Start and restart
-        P = Pause
+        -LEFT ARROW KEY = Left
+        -RIGHT ARROW KEY = Right
+        -SPACE = Start and restart
+        -P = Pause
 Scoring:
-       Enemies = 20 points
-       Gems = 10 points
-       Fish = 50 points
+       -Enemies = 20 points
+       -Gems = 10 points
+       -Fish = 50 points
 
 
 ```markdown

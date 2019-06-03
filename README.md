@@ -9,13 +9,18 @@ In Mermaid, the objective is simple. Get to the flag at the end of the level. Th
         -RIGHT ARROW KEY = Right
         -SPACE = Start and restart
         -P = Pause
+
 **Scoring**:
        -Enemies(one hit) = 20 points
        -Gems = 10 points
        -Fish = 50 points
+
+There is currently scoring on hearts and health max up powerups.
+
 **Powerups**:
        -Heart(Light): Increases Health by 1 point
        -Health Max Up(Dark): Increases Max health from 3 to 6
+
 At max health, hearts will not give more health.
 
 ```

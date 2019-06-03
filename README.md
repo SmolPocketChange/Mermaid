@@ -2,8 +2,8 @@
 In Mermaid, the objective is simple. Get to the flag at the end of the level. The catch is, you're a human on land and a mermaid in water. Stomp on enemies, collect gems and make your way to the end. 
 
 
-```## How to Play
-Controls:
+## How to Play
+```Controls:
         -LEFT ARROW KEY = Left
         -RIGHT ARROW KEY = Right
         -SPACE = Start and restart

@@ -28,12 +28,6 @@ At max health, hearts will not give more health.
 
 ```
 
-```
-
-[Link](url) and ![Image](src)
-```
-
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmolPocketChange/Mermaid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.

@@ -1,3 +1,4 @@
+![screenshot](https://raw.githubusercontent.com/SmolPocketChange/Mermaid/master/Start.PNG)
 ## About
 In Mermaid, the objective is simple. Get to the flag at the end of the level. The catch is, you're a human on land and a mermaid in water. Stomp on enemies, collect gems and make your way to the end. 
 
